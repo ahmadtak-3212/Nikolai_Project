@@ -1,7 +1,5 @@
 
-<div style="font-size: 30; font-weight: bold; text-align: center;">Nikolai</div>
-<iframe width="480" height="300" src="https://www.youtube.com/embed/RmYVuiprXAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+NIKOLAI 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/RmYVuiprXAE/0.jpg)](http://www.youtube.com/watch?v=RmYVuiprXAE "Video Title")
 
@@ -17,8 +15,7 @@ Nikolai is a 3D printed Gauntlet outfitted with electromagnets with high holding
 
 The Coil was made by manually winding ~700 turns of 24 guage wire, using a drill. We wound the wire around a custom 3D printed cylindrical casing with a bore for the Permalloy Core. The 3D printed design also allows the coil to be mounted onto a users hand and makes room for a temprature sensor and flyback diode. Testing shows that the coil can take up 145 W for roughly 3 Seconds before heating is of concern.
 
-<iframe width="480" height="300" src="https://youtube.com/embed/-3nESWdEpc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-3nESWdEpc8/0.jpg)](http://www.youtube.com/watch?v=-3nESWdEpc8 "Video Title")
 
 ### Coil Driver PCB
 
