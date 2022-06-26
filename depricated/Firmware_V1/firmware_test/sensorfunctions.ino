@@ -1,2 +1,0 @@
-
-#define ANALOG_PINS_RESOLUTION 12 
