@@ -2,6 +2,9 @@
 <div style="font-size: 30; font-weight: bold; text-align: center;">Nikolai</div>
 <iframe width="480" height="300" src="https://www.youtube.com/embed/RmYVuiprXAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/RmYVuiprXAE/0.jpg)](http://www.youtube.com/watch?v=RmYVuiprXAE "Video Title")
+
 # Documentation
 
 ## Overview
